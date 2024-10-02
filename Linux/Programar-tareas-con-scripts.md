@@ -58,4 +58,4 @@ Por ejemplo, si quieres que tu script se ejecute cada día a las 3 AM sería as�
 
     0 3 * * * /root/backup.sh
 
-Aquí os dejo una [herramienta](https://crontab.guru/) para calcular la sintaxis.
+Os dejo una [herramienta](https://crontab.guru/) para calcular la sintaxis.
