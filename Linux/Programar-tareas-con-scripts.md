@@ -42,7 +42,7 @@ Y aquí crearemos una línea con la siguiente sintaxis:
 
     * * * * * /ruta/al/script/nombre_del_script.sh
 
-Donde los `*` representan datos que irán especificados por números y quedarán como `*` si no se requiere especificarlo. De forma que:
+Donde los `*` representan datos que irán especificados por números y quedarán como `*` para que se ejecute en "todos" de cada elemento. De forma que:
 
 ```
 * * * * * /ruta/al/script/nombre_del_script.sh
