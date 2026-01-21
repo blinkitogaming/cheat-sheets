@@ -8,7 +8,7 @@ Ahora pasaremos a actualizar la versión de Klipper para cada componente.
 
 Para ello, necesitaremos conectarnos por `ssh` a nuestra Raspberry/CB1/CB2.
 
-## Placa del cabezal - Toolhead board (en mi caso EBB36 v1.2)
+## 1. Placa del cabezal - Toolhead board (en mi caso EBB36 v1.2)
 ### Paso 1
 Vamos al directorio klipper:
 ```shell
@@ -74,7 +74,7 @@ sudo service klipper start
 ```
 
 
-## Probe (en mi caso Eddy Duo)
+## 2. Probe (en mi caso Eddy Duo)
 Repite los pasos, pero con el canbus_uuid de este dispositivo.
 
 
